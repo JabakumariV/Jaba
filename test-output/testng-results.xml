@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-12T22:22:14 IST" name="Default suite" finished-at="2026-06-12T22:23:44 IST" duration-ms="89484">
+    <groups>
+    </groups>
+    <test started-at="2026-06-12T22:22:14 IST" name="Default test" finished-at="2026-06-12T22:23:44 IST" duration-ms="89484">
+      <class name="Amazon.amazon">
+        <test-method signature="amz()[pri:0, instance:Amazon.amazon@a9cd3b1]" started-at="2026-06-12T22:22:14 IST" name="amz" finished-at="2026-06-12T22:23:44 IST" duration-ms="89434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amz -->
+        <test-method signature="amzz()[pri:0, instance:Amazon.amazon@a9cd3b1]" started-at="2026-06-12T22:23:44 IST" name="amzz" finished-at="2026-06-12T22:23:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amzz -->
+      </class> <!-- Amazon.amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
