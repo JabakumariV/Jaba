@@ -37,6 +37,8 @@ public class amazon {
 		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@name='password']"))).sendKeys("Jaba@8870");
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='signInSubmit']"))).click();
 		System.out.println("Hi Hello");
+System.out.println("Hi Hello 2nd person change");
+
 			
 	}
 	
